@@ -1,3 +1,6 @@
+google.com
+youtube.com
+facebook.com
 www.badsite1.com
 www.badsite2.com
 www.badsite3.com
