@@ -1,0 +1,4 @@
+badsite1.com
+badsite2.com
+badsite3.com
+*.badsite.com
