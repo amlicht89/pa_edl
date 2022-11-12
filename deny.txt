@@ -1,4 +1,4 @@
-badsite1.com
-badsite2.com
-badsite3.com
-*.badsite.com
+www.badsite1.com
+www.badsite2.com
+www.badsite3.com
+www.*.badsite.com
